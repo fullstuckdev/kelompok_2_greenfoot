@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Title
+comment1.params=judul
+comment1.target=Title(java.lang.String)
+comment2.params=Latar
+comment2.target=void\ addedToWorld(greenfoot.World)
+numComments=3

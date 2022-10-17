@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Kotak
+comment1.params=
+comment1.target=Kotak()
+comment2.params=a\ b
+comment2.target=Kotak(int,\ int)
+comment3.params=
+comment3.target=double\ getValue()
+comment4.params=
+comment4.target=void\ checkBackKotak()
+comment5.params=Latar
+comment5.target=void\ addedToWorld(greenfoot.World)
+comment6.params=
+comment6.target=void\ act()
+numComments=7
