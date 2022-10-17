@@ -1,5 +1,5 @@
 # kelompok_2_greenfoot
 
-Taufik Mulyawan
-Rizki Laksana
-Lely Ruswitasari
+Taufik Mulyawan <br>
+Rizki Laksana <br>
+Lely Ruswitasari <br>
